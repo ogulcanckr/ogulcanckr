@@ -4,7 +4,5 @@
 - 💞️ HTM-CSS-JavaScript 
 - 📫 How to reach me ogulcanckr@outlook.com
 
-[<!---
-ogulcanckr/ogulcanckr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings, I am a former Türk Telekom technician, I recently started learning software and I want to develop my career in this field.
+I hope we can establish good communication and friendships.
