@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ogulcanckr
 - 👀 
-- 🌱 I’m currently learning Front and Developer
-- 💞️ HTM-CSS-JavaScript 
+- 🌱 I’m currently learning Front and Developer 
 - 📫 How to reach me ogulcanckr@outlook.com
 - 🌱 Languages:
 
